@@ -1,0 +1,55 @@
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  /*used for centering when width % is not given*/
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 0;
+  /*margin: 0 auto 0 auto;*/
+  /* used for centering when width % is given*/
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.upper-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.profile{
+  border-radius: 100%;
+}
